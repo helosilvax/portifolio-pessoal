@@ -4,7 +4,7 @@ Projeto criação utilizando exemplo do Bootstrap para ensino de uso do README e
 
 ## Descrição 
 
-## introducão 
+## Introducão 
 
 ## Funcionalidades
 
