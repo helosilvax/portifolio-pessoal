@@ -1,12 +1,12 @@
 # portifolio-pessoal
 
 Projeto criação utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap
- 
-## descrição 
+
+## Descrição 
 
 ## introducão 
 
-## funcionalidades
+## Funcionalidades
 
 ## Tecnologias utilizadas 
 
