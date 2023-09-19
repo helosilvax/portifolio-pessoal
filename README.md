@@ -1,27 +1,71 @@
-# Indice 
+# Indice
 
-[Projeto de portifolio pessoal](#portifolio-pessoal)  
-[Descrição](#descri%C3%A7%C3%A3o)  
-[Introducão](#introduc%C3%A3o)  
-[Funcionalidades](#funcionalidades)  
-[Tecnologias utilizadas](#tecnologias-utilizadas)  
-[Fontes consultadas](#fontes-consultadas)  
+ 
+
+[Portfolio_pessoal](#portfolio_pessoal)  
+
+[Descriço](#descri%C3%A7%C3%A3o)  
+
+[Introdução](#introdu%C3%A7ao)  
+
+[Funcionalidade](#funcionalidade)  
+
+[Tecnologias Utilizadas](#tecnologias-utilizadas)  
+
+[Fontes Consulta](#fontes-consulta)  
+
 [Autores](#autores)  
 
-# portifolio-pessoal
+ 
+
+ # Portfolio_pessoal
+
+ 
 
 ![Capa do projeto](img/capa.png)
 
-Projeto criação utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap
+ 
 
-## Descrição 
+projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap.
 
-## Introducão 
+ 
 
-## Funcionalidades
+## Descrição
 
-## Tecnologias utilizadas 
+O Portifólio Pessoal é um projeto que foi executado em sala de aula com a intenção de ampliar o desenvolvimento dos alunos ao fazer o arquivo README. O projeto teve auxiliação do Bootstrap para a página inicial, tanto o CSS quanto HTML.
 
-## Fontes consultadas
+## Introdução
 
-## Autores 
+Ao fazer o projeto aprendemos a utilizar o Bootstrap e também a desenvolver melhor nossa habilidade na construção do arquivo README.
+
+ Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.  
+
+  O arquivo README é muito importante para nossa aprendizagem e nosso desenvolvimento dentro e fora do colégio.
+
+## Funcionalidade
+
+Os campos de cadastro constam com informações de endereço somente.
+
+## Tecnologias Utilizadas
+
+* ``HTML5``
+
+* ``CSS``
+
+* ``VSCODE``
+
+* ``BOOTSTRAP``
+
+* ``GITHUB``
+
+* ``GIT``
+
+## Fontes Consulta
+
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+
+ [Github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
+
+ 
+
+## Autores
